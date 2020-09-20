@@ -1,4 +1,4 @@
-[CENTER][IMG="PB_Banner"]https://raw.githubusercontent.com/shovon668/xda-template/r3/pbrp3-banner-xda.png[/IMG]
+[CENTER][IMG="PBRP_Banner"]https://raw.githubusercontent.com/shovon668/xda-template/r3/pbrp3-banner-xda.png[/IMG]
 [CODE]
 /*
 *Disclaimer
@@ -12,7 +12,7 @@
 * you point the finger at us for messing up your device, we will laugh at you.
 */[/CODE][/CENTER]
 
-[B][SIZE="5"]Introduction[/SIZE][/B]
+[IMG="Introduction"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Intro_banner.png[/IMG]
 
 Pitch Black Recovery is a fork of TWRP with many improvements to make your experience better. It's more flexible & easy to use.
 
@@ -28,7 +28,7 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 [*][B]PitchBlack Team:[/B] [MENTION=9545189]rezaadi0105[/MENTION], [MENTION=8102966]shovon[/MENTION], [MENTION=7270336]manjot.gni[/MENTION], [MENTION=7371266]androiabledroid[/MENTION], sagar
 [/LIST]
 
-[B][SIZE="5"]Features[/SIZE][/B]
+[IMG="Features"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Features_banner.png[/IMG]
 
 [QUOTE][LIST]
 [*]Fully native android like UI
@@ -46,7 +46,7 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 [/LIST]
 [/QUOTE]
 
-[B][SIZE="5"]Installation Instructions[/SIZE][/B]
+[IMG="Installation"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Installation_banner.png[/IMG]
 
 [B][SIZE="4"]  From previous version or other recovery [/SIZE][/B]
 [LIST]
@@ -70,7 +70,7 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 [*]Enjoy
 [/LIST]
 
-[B][SIZE="5"]Changelog[/SIZE][/B]
+[IMG="Changelog"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Log_banner.png[/IMG]
 
 [B][SIZE="4"]PBRP Side Changelog[/SIZE][/B]
 [CODE]
@@ -109,10 +109,10 @@ v2.9.0
 [B][SIZE="4"]Device Side Changelog[/SIZE][/B]
 [CODE][/CODE]
 
-[B][SIZE="5"]Bugs[/SIZE][/B]
+[IMG="Bugs"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Bugs_banner.png[/IMG]
 - You tell me!
 
-[B][SIZE="5"]Downloads[/SIZE][/B]
+[IMG="Downloads"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Downloads_banner.png[/IMG]
 
 [B][SIZE="4"]Flashable zip[/SIZE][/B]
 [url]Give direct download link here[/url]
