@@ -12,7 +12,7 @@
 * you point the finger at us for messing up your device, we will laugh at you.
 */[/CODE][/CENTER]
 
-[IMG="Introduction"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Intro_banner.png[/IMG]
+[CENTER][IMG="Introduction"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Intro_banner.png[/IMG][/CENTER]
 
 Pitch Black Recovery is a fork of TWRP with many improvements to make your experience better. It's more flexible & easy to use.
 
@@ -28,7 +28,7 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 [*][B]PitchBlack Team:[/B] [MENTION=9545189]rezaadi0105[/MENTION], [MENTION=8102966]shovon[/MENTION], [MENTION=7270336]manjot.gni[/MENTION], [MENTION=7371266]androiabledroid[/MENTION], sagar
 [/LIST]
 
-[IMG="Features"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Features_banner.png[/IMG]
+[CENTER][IMG="Features"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Features_banner.png[/IMG][/CENTER]
 
 [QUOTE][LIST]
 [*]Fully native android like UI
@@ -46,7 +46,7 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 [/LIST]
 [/QUOTE]
 
-[IMG="Installation"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Installation_banner.png[/IMG]
+[CENTER][IMG="Installation"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Installation_banner.png[/IMG][/CENTER]
 
 [B][SIZE="4"]  From previous version or other recovery [/SIZE][/B]
 [LIST]
@@ -70,9 +70,9 @@ Pitch Black Recovery is a fork of TWRP with many improvements to make your exper
 [*]Enjoy
 [/LIST]
 
-[IMG="Changelog"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Log_banner.png[/IMG]
+[CENTER][IMG="Changelog"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Log_banner.png[/IMG][/CENTER]
 
-[B][SIZE="4"]PBRP Side Changelog[/SIZE][/B]
+[B][SIZE="4"]PBRP Source Changelog[/SIZE][/B]
 [CODE]
 v3.0.0
 - Fully Redesigned UI
@@ -106,13 +106,18 @@ v2.9.0
 - Update unroot magisk
 - Some bug fixed[/CODE]
 
-[B][SIZE="4"]Device Side Changelog[/SIZE][/B]
-[CODE][/CODE]
+[B][SIZE="4"]Device specific Changelog[/SIZE][/B]
+[CODE]- Initial build[/CODE]
 
-[IMG="Bugs"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Bugs_banner.png[/IMG]
+[CENTER][IMG="Bugs"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Bugs_banner.png[/IMG][/CENTER]
 - You tell me!
 
-[IMG="Downloads"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Downloads_banner.png[/IMG]
+[CENTER][IMG="Downloads"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Downloads_banner.png[/IMG][/CENTER]
 
 [B][SIZE="4"]Flashable zip[/SIZE][/B]
 [url]Give direct download link here[/url]
+
+[CENTER][IMG="Support"]https://raw.githubusercontent.com/shovon668/xda-template/r3/Support_banner.png[/IMG]
+[B]
+If you like our work, kindly consider donating, Every Donation counts. Thank You![/B]
+[URL="https://www.patreon.com/pitchblackrecovery"][IMG="Patreon"]https://raw.githubusercontent.com/shovon668/xda-template/r3/patreon.png[/IMG][/URL][/CENTER]
